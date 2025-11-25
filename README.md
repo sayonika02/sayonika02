@@ -25,4 +25,4 @@
 
 ## Connect with me!
 - Email: dassayonika@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/deepa-cv/](https://www.linkedin.com/in/sayonika-das/)
+- LinkedIn: [https://www.linkedin.com/in/sayonika-das/](https://www.linkedin.com/in/sayonika-das/)
