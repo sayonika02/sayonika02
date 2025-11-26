@@ -1,6 +1,6 @@
 # Hey there, I'm Sayonika! 👋
 
-## A sneak peek at projects I've worked on!
+## A sneak peek at some of the projects I've worked on!
 
 ### Catalog Indexing Engine
 - This project employs microservices based architecture and supports both structured and unstructured queries to retrive information from huge volumes of fashion catalogs, displaying the most relevant products to end users, with the aid of Large Language Models (LLMs)
